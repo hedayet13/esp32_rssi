@@ -1,11 +1,9 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char* ssid = "STELLAR";
-char* pass = "stellarBD";
+char* ssid = "****";
+char* pass = "****";
 
-//char* ssid = "Home_TP";
-//char* pass = "llIlIIl0O~`IlIl";
 
 void setup()
 {
