@@ -4,6 +4,8 @@
 char* ssid = "****";
 char* pass = "****";
 
+char* ssid = "Home_TP";
+char* pass = "llIlIIl0O~`IlIl";
 
 void setup()
 {
